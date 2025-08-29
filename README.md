@@ -3,7 +3,7 @@
 
 VisionAI is a real-time **AI assistant** that combines **computer vision** and **voice interaction**.  
 It detects objects, reads printed/handwritten text, understands your voice commands, and even speaks back to you.  
-
+The code file is uploaded in this repository named as vision_ai_assistance
 ---
 
 ## ✨ Features
